@@ -14,14 +14,14 @@
 .slide .div {
   background-color: #ffffff;
   overflow: hidden;
-  width: 1920px;
+  width: 100%;
   height: 13733px;
   position: relative;
 }
 
 .slide .overlap {
   position: absolute;
-  width: 1920px;
+  width: 100%;
   height: 1510px;
   top: 0;
   left: -3px;
@@ -29,7 +29,7 @@
 
 .slide .rectangle {
   position: absolute;
-  width: 1920px;
+  width: 100%;
   height: 1116px;
   top: 0;
   left: 0;
@@ -3308,7 +3308,7 @@
 
 .slide .overlap-14 {
   position: absolute;
-  width: 1920px;
+  width: 100%;
   height: 1159px;
   top: 6294px;
   left: 0;
@@ -3886,7 +3886,7 @@
 
 .slide .overlap-23 {
   position: absolute;
-  width: 1920px;
+  width: 100%;
   height: 966px;
   top: 12061px;
   left: 0;
@@ -4133,7 +4133,7 @@
 
 .slide .overlap-31 {
   position: absolute;
-  width: 1920px;
+  width: 100%;
   height: 1040px;
   top: 8826px;
   left: 0;
@@ -4483,7 +4483,7 @@
 
 .slide .overlap-39 {
   position: absolute;
-  width: 1920px;
+  width: 100%;
   height: 1185px;
   top: 9866px;
   left: 0;
@@ -4491,7 +4491,7 @@
 
 .slide .rectangle-6 {
   position: absolute;
-  width: 1920px;
+  width: 100%;
   height: 799px;
   top: 0;
   left: 0;
@@ -4742,7 +4742,7 @@
 
 .slide .overlap-40 {
   position: absolute;
-  width: 1920px;
+  width: 100%;
   height: 706px;
   top: 13027px;
   left: 0;
@@ -5252,7 +5252,7 @@
 
 .slide .group-51 {
   position: absolute;
-  width: 1924px;
+  width: 100%;
   height: 880px;
   top: 5414px;
   left: 0;
@@ -5260,7 +5260,7 @@
 
 .slide .overlap-47 {
   position: relative;
-  width: 1920px;
+  width: 100%;
   height: 880px;
   background-color: #000713;
 }
