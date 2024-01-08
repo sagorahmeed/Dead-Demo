@@ -3645,6 +3645,11 @@
   line-height: var(--heading-6-bold-line-height);
   white-space: nowrap;
   font-style: var(--heading-6-bold-font-style);
+  color: #1B1E23;
+  font-size: 20px;
+  font-weight: 800;
+  line-height: 24px;
+
 }
 
 .slide .group-18 {
@@ -4845,7 +4850,7 @@
   display: flex;
   align-items: center;
   gap: 13px;
-  padding: 17px 16px 17px 20px;
+  padding: 17px 16px 17px 11px;
   position: relative;
   align-self: stretch;
   width: 100%;
@@ -5099,7 +5104,7 @@
   height: 229px;
   top: 11431px;
   left: 773px;
-  background-image: url(./img/image-4.png);
+  background-image: url(./img/Image\ \(1\).png);
   background-size: cover;
   background-position: 50% 50%;
 }
@@ -5146,7 +5151,7 @@
   height: 229px;
   top: 11431px;
   left: 1226px;
-  background-image: url(./img/image-3.png);
+  background-image: url(./img/Image\ \(2\).png);
   background-size: cover;
   background-position: 50% 50%;
 }
@@ -5226,7 +5231,7 @@
   height: 229px;
   top: 0;
   left: 0;
-  background-image: url(./img/image-2.png);
+  background-image: url(./img/Image.png);
   background-size: cover;
   background-position: 50% 50%;
 }
@@ -6320,7 +6325,7 @@
   height: 699px;
   top: 7892px;
   left: 972px;
-  background-color: #eaf1fd;
+  /* background-color: #eaf1fd; */
   border-radius: 16px;
 }
 
